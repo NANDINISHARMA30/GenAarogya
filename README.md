@@ -31,4 +31,7 @@ MinMaxScaler – Scales each feature to a given range (default 0 to 1).
 RobustScaler – Robust to outliers, uses median and interquartile range.
 Scaling improves convergence and model performance, particularly for algorithms sensitive to feature distributions (like KNN, SVM, Logistic Regression).
 
+## 📄 License
+This project is licensed under the MIT License — feel free to use, modify, and contribute!
+
 
